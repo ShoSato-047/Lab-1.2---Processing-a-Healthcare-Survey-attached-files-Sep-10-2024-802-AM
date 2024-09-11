@@ -1,4 +1,4 @@
-# Lab-1.2---Processing-a-Healthcare-Survey-
+# Lab-1.2---Processing_a_Healthcare_Survey-
 ***This is a lab notebook from DSCI 326 lab 1.2.***
 
 In this lab, health care survey results from the Statistical Consulting Center at WSU were processed. 
