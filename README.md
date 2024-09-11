@@ -1,4 +1,5 @@
 # Lab-1.2---Processing-a-Healthcare-Survey-
 This is a lab notebook from DSCI 326 lab 1.2.
 
-This notebook is about data wrangling of health care survey result. 
+In this lab, health care survey results from the Statistical Consulting Center at WSU were processed. 
+The stack-transform-unstack technique was performed using `Polars` to reverse code the survey results.
